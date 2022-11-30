@@ -1,0 +1,24 @@
+ISE mean of all students in all 5 subjects is 12.42 out of 20
+ISE standard deviation will be 40.6215
+Grade C in ISE to the students having avg ISE marks below  12.42
+Grade B in ISE to the students having avg ISE marks below 14.4511 and above 12.42
+Grade A in ISE to the students having avg ISE marks above 14.4511
+Grade D in ISE to the students having avg ISE marks below 6.32678
+MSE mean of all students in all 5 subjects is 19.404 out of 30
+MSE standard deviation will be 62.6601
+Grade C in MSE to the students having avg MSE marks below  19.404
+Grade B in MSE to the students having avg MSE marks below 22.537 and above 19.404
+Grade A in MSE to the students having avg MSE marks above 22.537
+Grade D in MSE to the students having avg MSE marks below 10.005
+ESE mean of all students in all 5 subjects is 35.46 out of 50
+ESE standard deviation will be 114.376
+Grade C in ESE to the students having avg ESE marks below  35.46
+Grade B in ESE to the students having avg ESE marks below 41.1788 and above 35.46
+Grade A in ESE to the students having avg ESE marks above 41.1788
+Grade D in ESE to the students having avg ESE marks below 18.3036
+Percentage mean of all students in all 5 subjects is 67.284 out of 50
+Percentage standard deviation will be 43.1776
+Grade C in final exam to the students having percentage below  67.284
+Grade B in final exam to the students having percentage below 78.0784 and above 67.284
+Grade A in final exam to the students having percentage above 78.0784
+Grade D in final exam to the students having percentage below 34.9008
